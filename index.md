@@ -1,4 +1,4 @@
-## Helloooo
+## Rashmi's First CS193 Homework!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,8 +17,10 @@ Syntax highlighted code block
 
 ### Favorite things about CS193:
 
-- Bulleted
-- List
+- No exams and midterms
+- No textbook
+- Instructors and TA's seem very nice
+- Learning things that will actually be important for our future
 
 1. Numbered
 2. List
