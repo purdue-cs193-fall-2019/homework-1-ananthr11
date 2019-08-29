@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 
 
-### Favorite things about CS193:
+Favorite things about CS193:
 
 - No exams and midterms
 - No textbook
